@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm July </h1>
 
-<!--
-**JTatianaAriza/JTatianaAriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>:zap: About me!</summary>
 
-Here are some ideas to get you started:
+ ### Hello, I'm July Ariza, a Software Construction Student! 🙋‍💻♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 I'm currently studying software construction and technological development.
+
+- ☁️ I'm learning about cloud and Google Cloud services.
+
+- 🌟 I love learning and am passionate about technology and literature.
+
+- 🤝 I'm looking to collaborate on projects that allow me to apply and expand my knowledge in backend software development.
+
+- 💡 You can ask me about software construction, technological development, and my journey learning about cloud services.
+
+- 📬 How to reach me: You can find me on LinkedIn
+
+- 👩 Pronouns: she/her
+
+- ✨ Fun fact: I love reading and taking photos!
+
+</details>
+
+<br />
+
+---
