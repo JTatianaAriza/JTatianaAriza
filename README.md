@@ -3,7 +3,7 @@
 <details>
   <summary>:zap: About me!</summary>
 
- ### Hello, I'm July Ariza, a Software Construction Student! 🙋‍💻♀️
+ ### Hello, I'm July Ariza, a Software Construction Student! 👩🔭💻
 
 - 📘 I'm currently studying software construction and technological development.
 
