@@ -27,8 +27,6 @@
 
 - 💡 You can ask me about software construction, technological development, and my journey learning about cloud services.
 
-- 📬 How to reach me: You can find me on LinkedIn
-
 - ✨ Fun fact: I love reading and taking photos!
  
 
@@ -73,27 +71,7 @@
 
   <img  align="center"  src="https://github-readme-stats.JTatianaAriza.vercel.app/api/top-langs/?username=JTatianaAriza&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,java,linux,py,django,mysql,css,html,js,eclipse,idea,vscode&perline=14" />
-  </a>
-</p>
 
 <!-- Connect with me -->
    <summary><h2 style="display: inline-block">✉️ Connect with me ✉️</h2></summary> 
