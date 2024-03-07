@@ -6,18 +6,18 @@
 </p>
 
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Get to know me a little ....***
+
+### Hello, I'm July Ariza, a Software Construction Student! 👩🔭💻
+
+✔ Callme: ***Her/She*** or ***TeamWorker*** 🤝 <br>
 
 
-<details>
-  <summary>:zap: About me!</summary>
+- 📘 I'm currently studying software construction and technological development. 
 
- ### Hello, I'm July Ariza, a Software Construction Student! 👩🔭💻
+- ☁️ I'm learning about cloud and Google Cloud services.  
 
-- 📘 I'm currently studying software construction and technological development.
-
-- ☁️ I'm learning about cloud and Google Cloud services.
-
-- 🌟 I love learning and am passionate about technology and literature.
+- 🌟 I love learning and am passionate about technology and literature.   
 
 - 🤝 I'm looking to collaborate on projects that allow me to apply and expand my knowledge in backend software development.
 
@@ -28,8 +28,10 @@
 - 👩 Pronouns: she/her
 
 - ✨ Fun fact: I love reading and taking photos!
+ 
 
-</details>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
 
 <br />
 
