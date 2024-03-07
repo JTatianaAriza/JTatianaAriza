@@ -3,10 +3,12 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=font=Permanent+Marker&weight=900&pause=1000&color=BC9BF7&random==cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+Cybersecurity+%F0%9F%94%92;Backend+Software+Developer+%F0%9F%96%A5;Cloud+services+%E2%98%81%EF%B8%8F;Data+analysis+%F0%9F%93%88."/></a>
 
-
+</p>
 
 
 <br>
+
+## <picture><img src = "https://github.com/JTatianaAriza/JTatianaAriza/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <details>
   <summary>:zap: About me!</summary>
