@@ -61,13 +61,13 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
+</details>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JTatianaAriza&show_icons=true&theme=dark&locale=en" alt="JTatianaAriza" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
- 
+<br><br><br><br><br><br><br> 
 <!-- Connect with me -->
    <summary><h2 style="display: inline-block">✉️ Connect with me ✉️</h2></summary> 
 <p align="center">
