@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<details><summary><h3> GitHub Profile Stats 💻 </h3></summary>
+<summary><h3> GitHub Profile Stats 💻 </h3></summary>
 
 ----
 	
@@ -61,7 +61,7 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JTatianaAriza&show_icons=true&theme=dark&locale=en" alt="JTatianaAriza" /></p>
