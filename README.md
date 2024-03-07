@@ -67,7 +67,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JTatianaAriza&show_icons=true&theme=dark&locale=en" alt="JTatianaAriza" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<br><br><br><br><br><br><br> 
 <!-- Connect with me -->
    <summary><h2 style="display: inline-block">✉️ Connect with me ✉️</h2></summary> 
 <p align="center">
