@@ -25,8 +25,6 @@
 
 - 🤝 I'm looking to collaborate on projects that allow me to apply and expand my knowledge in backend software development.
 
-- 💡 You can ask me about software construction, technological development, and my journey learning about cloud services.
-
 - ✨ Fun fact: I love reading and taking photos!
  
 
