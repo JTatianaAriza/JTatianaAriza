@@ -63,6 +63,13 @@
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
+----
+	
+[![JTatianaAriza's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JTatianaAriza=github	)](https://github.com/JTatianaAriza/github-readme-activity-graph)
+
+ 
+</details>
+ 
 <!-- Connect with me -->
    <summary><h2 style="display: inline-block">✉️ Connect with me ✉️</h2></summary> 
 <p align="center">
