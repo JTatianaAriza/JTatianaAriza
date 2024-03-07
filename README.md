@@ -14,7 +14,7 @@
 
 ### Hello, I'm July Ariza, a Software Construction Student! 👩🔭💻
 
-✔ Callme: ***Her/She*** or ***TeamWorker*** 🤝 <br>
+ 👩 Pronouns: she/her or ***TeamWorker*** 🤝 <br>
 
 
 - 📘 I'm currently studying software construction and technological development. 
@@ -28,8 +28,6 @@
 - 💡 You can ask me about software construction, technological development, and my journey learning about cloud services.
 
 - 📬 How to reach me: You can find me on LinkedIn
-
-- 👩 Pronouns: she/her
 
 - ✨ Fun fact: I love reading and taking photos!
  
@@ -79,15 +77,6 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
