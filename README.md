@@ -65,10 +65,6 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.JTatianaAriza.vercel.app/api/top-langs/?username=JTatianaAriza&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-
-
 <!-- Connect with me -->
    <summary><h2 style="display: inline-block">✉️ Connect with me ✉️</h2></summary> 
 <p align="center">
