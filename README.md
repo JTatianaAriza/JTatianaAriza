@@ -64,10 +64,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JTatianaAriza=dark&show_icons=true&count_private=true" />
-  <br></br>
-<td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.JTatianaAriza.vercel.app/api/top-langs/?username=JTatianaAriza&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
