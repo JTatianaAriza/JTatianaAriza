@@ -47,9 +47,7 @@
   </a>
 </p>
 
-<summary><h3> GitHub Profile Stats 💻 
-
- </h3></summary>
+<summary><h3> GitHub Profile Stats 💻 </h3></summary>
 
 
 <!--- stats & Trophy (start) -->
@@ -101,7 +99,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
